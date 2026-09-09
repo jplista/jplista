@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=JO%C3%83O%20PEDRO%20LISTA&fontSize=42&fontColor=00FF00&animation=blink&fontAlignY=35&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=55&descColor=00FF00&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=200&section=header&text=JOAO%20PEDRO%20LISTA&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=00FF00" width="100%"/>
 
 </div>
 
@@ -19,10 +19,10 @@ João Pedro Lista - Full Stack Developer
 
 ## `<` Sobre mim `/>`
 
-- 💻 Full Stack Developer apaixonado por tecnologia
+- 💻 Atualmente trabalho como **Full Stack Developer**
 - 🌱 Sempre aprendendo e evoluindo minhas skills
 - ⚡ Gosto de transformar problemas complexos em soluções simples
-- 📫 Me chama, vamos trocar uma ideia sobre código!
+- 📫 Contato: [jplista10@gmail.com](mailto:jplista10@gmail.com)
 
 <br>
 
@@ -38,8 +38,8 @@ João Pedro Lista - Full Stack Developer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jplista&show_icons=true&count_private=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplista&layout=compact&title_color=00ff00&text_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jplista&show_icons=true&count_private=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplista&title_color=00ff00&text_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false&langs_count=8"/>
 
 <br>
 
