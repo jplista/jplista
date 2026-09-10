@@ -12,7 +12,7 @@
 
 <br>
 
-## Sobre mim
+## Sobre mim 
 
 - 💻 Atualmente trabalho como **Full Stack Developer**
 - 🌱 Sempre aprendendo e evoluindo minhas skills
@@ -21,7 +21,7 @@
 
 <br>
 
-## Tecnologias
+## Tecnologias 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,js,ts,python,java,css,react,mysql&theme=dark" alt="skills"/>
@@ -29,30 +29,22 @@
 
 <br>
 
-## Estatísticas
+## Estatísticas 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jplista&show_icons=true&count_private=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplista&title_color=00ff00&text_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false&langs_count=8"/>
+<img height="180" src="https://github-readme-stats-two-iota-75.vercel.app/api?username=jplista&show_icons=true&count_private=true&theme=tokyonight&hide_border=false"/>
+<img height="180" src="https://github-readme-stats-two-iota-75.vercel.app/api/top-langs/?username=jplista&theme=tokyonight&hide_border=false&langs_count=8"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jplista&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&title_color=00ff00" width="90%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jplista&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&border=00ff00&hide_border=false"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jplista&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10&title_color=00ff00&text_color=00ff00&background=000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jplista&theme=tokyonight&hide_border=false"/>
 
 </div>
 
 <br>
 
-## Atividade recente
+## Atividade recente 
 
 <div align="center">
 
@@ -66,7 +58,7 @@
 
 <br>
 
-## Conecte-se comigo
+## Conecte-se comigo 
 
 <div align="center">
 
