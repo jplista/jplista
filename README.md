@@ -6,18 +6,13 @@
 
 <div align="center">
 
-```
-> whoami
-João Pedro Lista - Full Stack Developer
-> status
-[ONLINE] pronto para compilar ideias em código
-```
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=700&height=60&lines=ONLINE+E+PRONTO+PARA+NOVOS+PROJETOS" alt="status banner"/>
 
 </div>
 
 <br>
 
-## `<` Sobre mim `/>`
+## Sobre mim
 
 - 💻 Atualmente trabalho como **Full Stack Developer**
 - 🌱 Sempre aprendendo e evoluindo minhas skills
@@ -26,7 +21,7 @@ João Pedro Lista - Full Stack Developer
 
 <br>
 
-## `<` Tecnologias `/>`
+## Tecnologias
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,js,ts,python,java,css,react,mysql&theme=dark" alt="skills"/>
@@ -34,12 +29,16 @@ João Pedro Lista - Full Stack Developer
 
 <br>
 
-## `<` Estatísticas `/>`
+## Estatísticas
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=jplista&show_icons=true&count_private=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplista&title_color=00ff00&text_color=00ff00&bg_color=000000&border_color=00ff00&hide_border=false&langs_count=8"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jplista&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&title_color=00ff00" width="90%"/>
 
 <br>
 
@@ -53,7 +52,7 @@ João Pedro Lista - Full Stack Developer
 
 <br>
 
-## `<` Atividade recente `/>`
+## Atividade recente
 
 <div align="center">
 
@@ -67,7 +66,7 @@ João Pedro Lista - Full Stack Developer
 
 <br>
 
-## `<` Conecte-se comigo `/>`
+## Conecte-se comigo
 
 <div align="center">
 
